@@ -1,2 +1,2 @@
 # trajectory-optimizer
-Trajectory Optimization Toll v1.0.10
+Trajectory Optimization Tool v1.0.10
