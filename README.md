@@ -1,4 +1,5 @@
 # trajectory-optimizer  
+Made by Denis Groshev (KAIST, Department of Aerospace Engineering), Spring 2020.  
   
 ## Program description:  
 Application can plot optimal ascend trajectory (maximize payload) with the input of starting point on the globe, final orbit parameters (inclination, apoapsis, periapsis) by varying steering angle throughout stages of flight. Also, for demonstration purposes, it is capable of simulating flight with predefined parameters, requiring payload mass as input.  
